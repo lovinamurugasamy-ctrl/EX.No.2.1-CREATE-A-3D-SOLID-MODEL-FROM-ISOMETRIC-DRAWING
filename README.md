@@ -127,7 +127,7 @@ Step 14: Check the model
 
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
-<img width="290" height="313" alt="Screenshot 2026-11-24 192711" src="https://github.com/user-attachments/assets/c9add54c-2480-4a07-9d2b-76e7015c45d1" />
+![Uploading Screenshot 2026-11-24 213635.png…]()
 
 ## OUTPUT
 <img width="1017" height="717" alt="image" src="https://github.com/user-attachments/assets/e7bb63be-d000-426e-b960-460642952c19" />
